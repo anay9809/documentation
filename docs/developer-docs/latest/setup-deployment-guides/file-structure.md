@@ -8,7 +8,7 @@ canonicalUrl: https://docs.strapi.io/developer-docs/latest/setup-deployment-guid
   pre {
     a {
       color: #ffbf00;
-      font-weight: 600;
+      font-weight: 600px;
       /* letter-spacing: .1px; */
     }
   }
